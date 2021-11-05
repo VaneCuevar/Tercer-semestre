@@ -1,0 +1,2 @@
+C:\Users\vanec\source\repos\BST\Debug\BST.exe
+C:\TC1031\BST\Debug\BST.exe
